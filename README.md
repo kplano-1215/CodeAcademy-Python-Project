@@ -7,3 +7,5 @@ I found two .csv files on an open data source that provided data on dog owners (
 
 I first imported pandas and read the two csv files. I cleaned up both tables before merging them into one table.
 The final step is to download the final table in an excel file, NOTE that this step is currently commented out to avoid any unwanted excel downloads. 
+
+This was all done using Jupyter Notebooks.
